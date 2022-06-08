@@ -1,0 +1,21 @@
+body {
+	font-family: "Nunito Sans", sans-serif;
+}
+
+.navbar {
+	opacity: 0.8;
+	border-bottom: 1px solid #fff;
+}
+
+.jumbotron {
+	padding-top: 100px;
+}
+
+.card {
+	padding: 0;
+	margin-top: 40px;
+}
+
+footer {
+	text-align: center;
+}
